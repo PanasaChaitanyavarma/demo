@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>FSWD</title>
+<style>
+body{
+background-image: URL(image.jpg)
+}
+form{
+width: 300px;
+background: orange;
+}
+</style>
+<head>
+<body>
+<h1>
+<center>T-Shirt Signup page</center>
+</h1>
+<center>
+<form>
+First Name: <input type="text" placeholder="Firstname"><br><br>
+Last Name: <input type="text" placeholder="Lastname"><br><br>
+Password: <input type="password" placeholder="Password"><br><br>
+Email: <input type="email" placeholder="Enter email"> <br><br>
+Date of Birth: <input type="date"><br><br>
+Age: <input type="number" placeholder="Your Age"> <br><br>
+Gender: <input type="radio" name="Gender"> Male 
+<input type="radio" name="Gender"> Female
+<input type="radio" name="Gender"> Others 
+<br><br>
+Size: <input type="radio" name="size"> XS
+<input type="radio" name="size"> S
+<input type="radio" name="size"> M
+<input type="radio" name="size"> L
+<input type="radio" name="size"> XL
+<input type="radio" name="size"> XXL
+<br><br> 
+Color:<input type="text" placeholder="color"><br><br>
+Mobile number: <input type="tel" placeholder="Mobile number"><br><br>
+Submit: <input type="submit">
+</form>
+</center>
+</body>
+</html>
