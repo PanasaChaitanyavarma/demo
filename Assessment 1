@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>www.amozon.com</title>
+    <style>
+        .head{
+            colour:black;
+            background-color: yellow;
+        }
+        .head1{
+            color:blue;
+        }
+    </style>
+</head>
+<body>
+<fieldset>
+        <img src="amozon.jpg" width="200px">
+        <H1>Create account</H1>
+           <b>your name</b><br>
+            <input type="ypur name"><br>
+            <b>Email</b><br>
+            <input type="Email"><br>
+            <b>Password</b><br>
+            <input type="Password">
+            <p>passwords must be at least 6 characters</p>
+            <center></center>
+            <button class="head">create your amozon account</button></b></center>
+            <p>By creating an account.you agree to Amazon's</p>
+            <p class="head1"> Conditions </p> of Use and Privacy Notice
+            <hr>
+            <br>
+            Already you have an account?<p class="head1">Sign-in</p>
+
+
+
+</fieldset>       
+</body>
+</html>
